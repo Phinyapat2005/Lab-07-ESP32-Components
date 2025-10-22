@@ -9,8 +9,7 @@ https://github.com/APPLICATIONS-OF-MICROCONTROLLERS/Lab7_Components
 แสดงสถานะการทำงานของ sensor
 แสดงแหล่งที่มาของ component (GitHub Repository)
 ## ความต่างจากLab7-1
-
-ํํัLab 7-1: ใช้ local component (ในเครื่อง)
+Lab 7-1: ใช้ local component (ในเครื่อง)
 Lab 7-2: ใช้ managed component จาก GitHub URL
 
 ## การใช้งาน
